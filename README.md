@@ -34,7 +34,7 @@ Used Spearman correlations to explore monotonic relationships between exam score
 
 # Statistical Tests
 
-- t-tests** & ANOVA to check for score differences across categorical variables.
+- t-tests & ANOVA to check for score differences across categorical variables.
 - Tukey's HSD for post-hoc comparisons when needed.
 
 # Linear Regression Model
