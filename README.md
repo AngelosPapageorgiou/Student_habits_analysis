@@ -1,3 +1,5 @@
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 # Student_habits_analysis
 
 This repository contains a comprehensive data analysis of student lifestyle habits and how they relate to exam performance. The analysis is performed in R and includes correlation tests, visualizations, linear regression modeling, and clustering.
