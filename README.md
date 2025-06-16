@@ -21,7 +21,7 @@ The file `student_habits_performance.csv` includes the following variables:
 - extracurricular_participation: Participation in extracurricular activities
 - exam_score: Final exam score
 
-# Analysis Summary
+
 
 # Preprocessing
 
